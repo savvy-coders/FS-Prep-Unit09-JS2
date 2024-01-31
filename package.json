@@ -30,7 +30,6 @@
   },
   "homepage": "https://github.com/savvy-coders/FS-Prep-Unit09-JS2#readme",
   "devDependencies": {
-    "cypress": "^12.17.2",
     "live-server": "^1.2.2"
   }
 }
